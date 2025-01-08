@@ -4,7 +4,7 @@ collection: publications
 category: first_author
 permalink: /publication/Wright_et_al_2017_Neuropsychopharm
 excerpt: 'This work characterizes the local inhibitory synaptic transmission arising from fast-spiking interneurons (FSIs) and local axon collaterals from MSNs within the NAc, which provide feedforward and lateral inhibition, respectively.'
-date: 2017-04
+date: 2017-12-08
 venue: 'Neuropsychopharmacology'
 paperurl: 'https://www.nature.com/articles/npp2016275'
 citation: 'a.	Wright, WJ, Schlüter, OM, & Dong, Y. (2017). &quot;A feedforward inhibitory circuit mediated by CB1-expressing fast-spiking interneurons in the nucleus accumbens.&quot; <i>Neuropsychopharmacology</i>. 42(5).'
