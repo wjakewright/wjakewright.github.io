@@ -2,7 +2,7 @@
 title: "A feedforward inhibitory circuit mediated by CB1-expressing fast-spiking interneurons in the nucleus accumbens"
 collection: publications
 category: first_author
-permalink: /_publications/Wright_et_al_2017_Neuropsychopharm
+permalink: /publication/Wright_et_al_2017_Neuropsychopharm
 excerpt: 'This work characterizes the local inhibitory synaptic transmission arising from fast-spiking interneurons (FSIs) and local axon collaterals from MSNs within the NAc, which provide feedforward and lateral inhibition, respectively.'
 date: 2017-12-08
 venue: 'Neuropsychopharmacology'
