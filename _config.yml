@@ -21,7 +21,7 @@ repository               : "wjakewright/wjakewright.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot_2.jpg"
+  avatar           : "headshot_2.png"
   name             : "Jake Wright"
   pronouns         : "he/him"  
   bio              : "Postdoctoral Fellow"
