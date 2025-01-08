@@ -3,7 +3,7 @@ title: "Local and global predictors of synapse elimination during motor learning
 collection: publications
 category: first_author
 permalink: /publication/Hedrick_et_al_2024_Sci_Adv
-teaser: /files/headshot_2.png
+teaser: /images/headshot_2.png
 excerpt: 'These findings represent the first characterization of the functional properties regulating experience-dependent synapses elimination in the adult brain.'
 date: 2024-03-15
 venue: 'Science Advances'
