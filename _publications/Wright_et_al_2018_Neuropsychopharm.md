@@ -7,5 +7,5 @@ excerpt: 'Commentary'
 date: 2018-06-20
 venue: 'Neuropsychopharmacology'
 paperurl: 'https://www.nature.com/articles/npp2017127'
-citation: '<b>Wright, W.J.#</b> & Dong, Y. (2018). &quot;Intrinsic Excitability of Cocaine-Associated Memories.&quot; <b><i>Neuropsychopharmacology</i></b>. 43(4).'
+citation: '<b>Wright, W.J.</b> & Dong, Y. (2018). &quot;Intrinsic Excitability of Cocaine-Associated Memories.&quot; <b><i>Neuropsychopharmacology</i></b>. 43(4).'
 ---
