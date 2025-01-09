@@ -7,6 +7,7 @@ excerpt: 'This work characterizes the local inhibitory synaptic transmission ari
 date: 2017-12-08
 venue: 'Neuropsychopharmacology'
 paperurl: 'https://www.nature.com/articles/npp2016275'
+slidesur: /files/Wright_et_al_2017_Neuropsychopharm.pdf
 citation: '<b>Wright, WJ</b>, Schlüter, OM, & Dong, Y. (2017). &quot;A feedforward inhibitory circuit mediated by CB1-expressing fast-spiking interneurons in the nucleus accumbens.&quot; <b><i>Neuropsychopharmacology</i></b>. 42(5).'
 ---
 
