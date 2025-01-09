@@ -7,6 +7,7 @@ excerpt: 'these findings point to the CREB-Zfp189 interaction within the NAc Drd
 date: 2023-03-15
 venue: 'Biological Psychiatry'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0006322322014780'
+slidesurl: /files/Teague_et_al_2023.pdf
 citation: 'Teague C.#, Picone J.#, <b>Wright W.J.</b>, Browne C., Silva G., Futamura R., Minier-Toribio A., Estill M., Ramakrishnan A., Martinez-Rivera F., Godino A., Parise E., Schmidt, K.H., Pulido, N.V., Lorsch Z., Hyun Kim J., Shen L., Neve R., Dong Y., Nestler E., Hamilton, PJ. (2023) 
  . &quot;CREB Binding at the Zfp189 Promoter Within Medium Spiny Neuron Subtypes Differentially Regulates Behavioral and Physiological Adaptations Over the Course of Cocaine Use.&quot; <b><i>Biological Psychiatry</i></b>. 6(15).'
 ---
