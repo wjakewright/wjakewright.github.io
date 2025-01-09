@@ -7,6 +7,7 @@ excerpt: 'Review'
 date: 2021-02-13
 venue: 'Molecular Psychiatry'
 paperurl: 'https://www.nature.com/articles/s41380-020-0683-y'
+slidesurl: /files/Schall_et_al_2021.pdf
 citation: 'Schall, T.#, <b>Wright, W.J.#</b>, & Dong, Y. (2021). &quot;Nucleus accumbens fast-spiking interneurons in motivational and addictive behaviors.&quot; <b><i>Molecular Psychiatry</i></b>. 26(1).'
 ---
 
