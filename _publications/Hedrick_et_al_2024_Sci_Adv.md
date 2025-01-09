@@ -7,6 +7,7 @@ excerpt: 'These findings represent the first characterization of the functional 
 date: 2024-03-15
 venue: 'Science Advances'
 paperurl: 'https://www.science.org/doi/full/10.1126/sciadv.adk0540'
+slideurl: /files/Hedrick_et_al_2024.pdf
 citation: 'Hedrick, N.G.#, <b>Wright, W.J.#</b>, & Komiyama, T. (2024). &quot;Local and global predictors of synapse elimination during motor learning.&quot; <b><i>Science Advances</i></b>. 10(11).'
 ---
 
