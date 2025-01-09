@@ -7,6 +7,7 @@ excerpt: 'This work demonstrated that the silencing and re-maturation of cocaine
 date: 2019-12-02
 venue: 'Nature Neuroscience'
 paperurl: 'https://www.nature.com/articles/s41593-019-0537-6'
+slidesurl: /files/Wright_et_al_2020.pdf
 citation: '<b>Wright, W.J.#</b>, Graziane, N.M.#, Neumann, P.A., Hamilton, P.J. Cates, H.M., Fuerst, L., Spenceley, A., Mackinnon-Booth, N., Iyer, K., Huang, Y.H., Shaham, Y., Schlüter, O.M., Nestler, E.J., & Dong, Y. (2020). &quot;Silent synapses dictate cocaine memory destabilization and reconsolidation.&quot; <b><i>Nature Neuroscience</i></b>. 23(1).'
 ---
 
