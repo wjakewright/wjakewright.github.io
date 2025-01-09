@@ -7,6 +7,7 @@ excerpt: 'This to work that demonstrated that cocaine experience triggers synapt
 date: 2016-05-30
 venue: 'Nature Neuroscience'
 paperurl: 'https://www.nature.com/articles/nn.4313'
+slidesurl: /files/Graziane_et_al_2016.pdf
 citation: 'Graziane, NM, Sun, S#, <b>Wright, WJ#</b>, Jang, D, Zheng, L, Huang, YH, Nestler, EJ, Wang, YT, Schlüter, OM, & Dong Y. (2016). &quot;Opposing mechanisms mediate morphine- and cocaine-induced generation of silent synapses.&quot; <b><i>Nature Neuroscience</i></b>. 19(17).'
 ---
 
