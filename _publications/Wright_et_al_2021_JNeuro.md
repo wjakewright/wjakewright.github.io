@@ -7,6 +7,7 @@ excerpt: 'Review'
 date: 2021-11-10
 venue: 'Journal of Neuroscience'
 paperurl: 'https://www.jneurosci.org/content/41/45/9275.abstract'
+slidesurl: /files/Wright_et_al_2021_JNeuro.pdf
 citation: '<b>Wright, W.J.</b>, & Dong, Y. (2021). &quot;Silent synapses in cocaine-associated memory and beyond.&quot; <b><i>Journal of Neuroscience</i></b>. 41(45).'
 ---
 
