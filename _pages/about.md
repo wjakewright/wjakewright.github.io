@@ -23,6 +23,8 @@ My Research
 &nbsp; &nbsp; <sup>Imaging synaptic activity and neural output <i>in vivo</i></sup>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>Monitoring synaptic plasticity <i>in vivo</i></sup>
 
 
-**Previous:** I was a graduate student in the lab of Dr. Yan Dong at the University of Pittsburgh. 
+**Previous:** I was a graduate student in the lab of Dr. Yan Dong at the University of Pittsburgh. My thesis focused on identifying the synaptic mechanisms that underlie the natural dynamics of drug associated memories. In general, memories are not static, but are dynamic, and every time we recall something that memory becomes transiently destabilized before becoming stable again through a processed called reconsolidation. While destabilized, memories become malleable and can be modified, providing an avenue for the treatment of maladaptive memories, such as those underlying addiction. My thesis work demonstrated that the silencing and re-maturation of cocaine-generated synapses underlies the natural destabilization and reconsolidation of cocaine-associated memories following memory reactivation, and lend further support to the theory that memories are encoded by specific synaptic ensemble. 
+
+
 
 
