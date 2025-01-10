@@ -17,12 +17,12 @@ My Research
 
 <p align="center">
   <figure>
-    <img src="/images/Spine_Activity.gif" alt="Spine Activity" width="45%">
+    <img src="/images/Spine_Activity.gif" alt="Spine Activity" width="40%">
     <figcaption styles="text-align: center;">Imaging synaptic activity and neural output in vivo</figcaption>
   <figure>
 &nbsp; &nbsp; &nbsp; &nbsp;
   <figure>
-    <img src="/images/Plasticity.png" alt="Spine Plasticity" width="50%">
+    <img src="/images/Plasticity.png" alt="Spine Plasticity" width="42%">
     <figcaption styles="text-align: center;">Measuring synaptic plasticity in vivo</figcaption>
   <figure>
 </p>
