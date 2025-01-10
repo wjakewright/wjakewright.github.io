@@ -11,14 +11,16 @@ I am currently a postdoctoral fellow mentored by Dr. Takaki Komiyama at the Univ
 
 My long-term goal is to understand how the brain adaptively encodes information to shape behavior in both health and disease. I am particularly interested in understanding how lower-level modifications, such as changes in synaptic function, drive higher-level adaptations in circuit function to obtain a comprehensive mechanistic understanding of how the brain adaptively controls behavior. Broadly, I intend to focus my research on understanding how specific dendritic and synaptic properties influence neural function and plasticity to underlie neural computations and how these different properties may contribute to the development of neuropsychiatric conditions.
 
-<figure style="text-align:center; flex:1;">
-    <img src="/images/Spine_Activity.gif" alt= "Spine Activity" width="50%" height="50%"/>
-    <figcaption styles="text-align: center;">Imaging synaptic activity and neural output in vivo</figcaption>
-</figure>
-<figure style="text-align:center; flex:1;">
-    <img src="/images/Plasticity.png" alt= "Spine Plasticity" width="50%" height="50%"/>
-    <figcaption styles="text-align: center;">Measuring synaptic plasticity in vivo</figcaption>
-</figure>
+<div style="display: flex; justify-content:space-between;">
+  <figure style="text-align:center; flex:1;">
+      <img src="/images/Spine_Activity.gif" alt= "Spine Activity"height="200px"/>
+      <figcaption styles="text-align: center;">Imaging synaptic activity and neural output in vivo</figcaption>
+  </figure>
+  <figure style="text-align:center; flex:1;">
+      <img src="/images/Plasticity.png" alt= "Spine Plasticity" height="200px"/>
+      <figcaption styles="text-align: center;">Measuring synaptic plasticity in vivo</figcaption>
+  </figure>
+</div>
 
 My Research
 ======
