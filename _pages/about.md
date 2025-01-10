@@ -13,7 +13,7 @@ My long-term goal is to understand how the brain adaptively encodes information 
 
 <div style="display: flex; justify-content:space-between;">
   <figure style="text-align:center; flex:1;">
-      <img src="/images/Spine_Activity.gif" alt= "Spine Activity"height="200px"/>
+      <img src="/images/Spine_Activity.gif" alt= "Spine Activity" height="200px"/>
       <figcaption styles="text-align: center;">Imaging synaptic activity and neural output in vivo</figcaption>
   </figure>
   <figure style="text-align:center; flex:1;">
