@@ -11,6 +11,11 @@ I am currently a postdoctoral fellow mentored by Dr. Takaki Komiyama at the Univ
 
 My long-term goal is to understand how the brain adaptively encodes information to shape behavior in both health and disease. I am particularly interested in understanding how lower-level modifications, such as changes in synaptic function, drive higher-level adaptations in circuit function to obtain a comprehensive mechanistic understanding of how the brain adaptively controls behavior. Broadly, I intend to focus my research on understanding how specific dendritic and synaptic properties influence neural function and plasticity to underlie neural computations and how these different properties may contribute to the development of neuropsychiatric conditions.
 
+My Research
+======
+**Current:** I am currently a postdoctoral fellow in the lab of Dr. Takaki Komiyama at the University of California, San Diego. My current research seeks to address the credit assignment problem of synaptic plasticity, or in other words how are specific synapses selected to undergo different forms of plasticity to drive learning. To do so, I utilize advanced imaging methods to simultaneously monitor the activity of individual synapses and neural output during active learning, allowing me to identify the activity patterns that promote subsequent synaptic plasticity. 
+
+
 <div style="display: flex; justify-content:space-between;">
   <figure style="text-align:center; flex:1;">
       <img src="/images/Spine_Activity.gif" alt= "Spine Activity" height="150px"/>
@@ -21,10 +26,6 @@ My long-term goal is to understand how the brain adaptively encodes information 
       <figcaption styles="text-align: center;">Measuring synaptic plasticity in vivo</figcaption>
   </figure>
 </div>
-
-My Research
-======
-**Current:** I am currently a postdoctoral fellow in the lab of Dr. Takaki Komiyama at the University of California, San Diego. My current research seeks to address the credit assignment problem of synaptic plasticity, or in other words how are specific synapses selected to undergo different forms of plasticity to drive learning. To do so, I utilize advanced imaging methods to simultaneously monitor the activity of individual synapses and neural output during active learning, allowing me to identify the activity patterns that promote subsequent synaptic plasticity. 
 
 **Previous:** I was a graduate student in the lab of Dr. Yan Dong at the University of Pittsburgh. 
 
