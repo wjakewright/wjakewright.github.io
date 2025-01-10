@@ -15,16 +15,11 @@ My Research
 ======
 **Current:** I am currently a postdoctoral fellow in the lab of Dr. Takaki Komiyama at the University of California, San Diego. My current research seeks to address the credit assignment problem of synaptic plasticity, or in other words how are specific synapses selected to undergo different forms of plasticity to drive learning. To do so, I utilize advanced imaging methods to simultaneously monitor the activity of individual synapses and neural output during active learning, allowing me to identify the activity patterns that promote subsequent synaptic plasticity. 
 
-<div style="display: flex;">
-  <figure style="text-align:center; flex:1;">
-      <img src="/images/Spine_Activity.gif" alt="Spine Activity" height="100px"/>
-      <figcaption styles="text-align: center;">Imaging synaptic activity and neural output in vivo</figcaption>
-  </figure>
-  <figure style="text-align:center; flex:1;">
-      <img src="/images/Plasticity.png" alt="Spine Plasticity" height="100px"/>
-      <figcaption styles="text-align: center;">Measuring synaptic plasticity in vivo</figcaption>
-  </figure>
-</div>
+<p align="center">
+  <img src="/images/Spine_Activity.gif" alt="Spine Activity" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="/images/Plasticity.png" alt="Spine Plasticity" width="45%">
+</p>
 
 **Previous:** I was a graduate student in the lab of Dr. Yan Dong at the University of Pittsburgh. 
 
