@@ -13,7 +13,7 @@ My long-term goal is to understand how the brain adaptively encodes information 
 
 <figure>
   <img src="/images/Spine_Activity.gif" style="height: 50%; width: 50%" alt="Slow Poke"/>
-  <figcaption>Imaging synaptic activity and neural output in vivo.</figcaption>
+  <figcaption styles="text-align: center;">Imaging synaptic activity and neural output</figcaption>
 </figure>
 
 My Research
