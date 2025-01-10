@@ -12,7 +12,7 @@ I am currently a postdoctoral fellow mentored by Dr. Takaki Komiyama at the Univ
 My long-term goal is to understand how the brain adaptively encodes information to shape behavior in both health and disease. I am particularly interested in understanding how lower-level modifications, such as changes in synaptic function, drive higher-level adaptations in circuit function to obtain a comprehensive mechanistic understanding of how the brain adaptively controls behavior. Broadly, I intend to focus my research on understanding how specific dendritic and synaptic properties influence neural function and plasticity to underlie neural computations and how these different properties may contribute to the development of neuropsychiatric conditions.
 
 <figure>
-  <img src="/images/SBv4T.gif" style="height: 50%; width: 50%" alt="Slow Poke"/>
+  <img src="/images/Spine_Activity.gif" style="height: 50%; width: 50%" alt="Slow Poke"/>
   <figcaption>Imaging synaptic activity and neural output in vivo.</figcaption>
 </figure>
 
