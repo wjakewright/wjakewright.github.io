@@ -20,7 +20,7 @@ My Research
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="/images/Plasticity.png" alt="Spine Plasticity" width="47%">
 </p>
-&nbsp; &nbsp; <sup>Imaging synaptic activity and neural output <i>in vivo</i></sup>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>Monitoring synaptic plasticity <i>in vivo</i></sup>
+&nbsp; &nbsp; <sup>Imaging synaptic activity and neural output <i>in vivo</i></sup>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>Monitoring synaptic plasticity <i>in vivo</i></sup>
 
 
 **Previous:** I was a graduate student in the lab of Dr. Yan Dong at the University of Pittsburgh. 
